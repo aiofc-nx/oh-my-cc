@@ -34,4 +34,9 @@ IS_DEMO=true bun cli.js
 
 ## **源码还原的方法**
 
-**关键是获取本次泄露的`cli.js.map`**
+**关键是获取本次爆表的`cli.js.map`**
+
+具体方法和脚本：
+
+- `docs/cli-js-map-source-recovery.md`
+- `scripts/recover_from_sourcemap.py`
